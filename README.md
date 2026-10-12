@@ -6,19 +6,19 @@ My first Flutter app: add items, mark them as bought, and delete them.
 
 ### 1. My list
 
-![myList.png](../../OneDrive/Desktop/INNOVATION/MOBILE/myList.png)
+![myList.png](myList.png)
 
 The app opens with a few items already on the list. Each row shows a basket icon, the item name, its position (Item 1, Item 2, ...), a quantity with **+** and **−** buttons, and a bin button. The title at the top shows how many items are still left to buy.
 
 ### 2. An item bought
 
-![Type.png](../../OneDrive/Desktop/INNOVATION/MOBILE/Type.png)
+![Type.png](Type.png)
 
 When I tap an item, it is marked as bought: its name is crossed out and its icon changes to a tick. The title count goes down by one, and the bought item moves to the bottom of the list. Tapping it again undoes this.
 
 ### 3. An empty item refused
 
-![2marked.png](../../OneDrive/Desktop/INNOVATION/MOBILE/2marked.png)
+![2marked.png](2marked.png)
 
 If I tap **Add** with nothing typed in the field, nothing is added to the list. Instead, a message at the bottom of the screen says "Type an item first".
 
